@@ -1,3 +1,22 @@
+INTEGRANTES + DIVISOES
+
+Guilherme Batista Cintra RM 562850 - CRIAR PROJETO - ESTRUTURAR - INSTALAR DEPENDENCIAS - CRIAR UMA FEATURE LAYOUT.
+Davi Tagawa Schincaglia Lima Lemos RM 563457 - CRIAR COMPONENTS LOADING, FALLBACK - PAGE ADD-SESSION E HOME.
+Caio Felipe Silva RM 564615 - PAGE SESSION, NOT FOUND - ADD IMAGE - MESCLAR O APP TSX - AJUSTES - README
+
+PARA RODAR O PROJETO INSTALAR DEPENDENCIAS 
+
+Entrar na pasta e instalar dependências
+
+npm install
+
+npm install tailwindcss @tailwindcss/vite
+No arquivo src/index.css
+@import "tailwindcss";
+
+npm install react-router-dom
+npm install react-error-boundary
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
